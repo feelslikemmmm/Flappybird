@@ -1,5 +1,7 @@
+import Game from '@pages/Game';
+
 function App() {
-  return <div className="App"></div>;
+  return <Game />;
 }
 
 export default App;
