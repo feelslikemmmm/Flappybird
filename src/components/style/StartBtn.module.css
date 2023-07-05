@@ -1,0 +1,15 @@
+.button {
+  position: absolute;
+  background: red;
+  width: 50%;
+  left: 25%;
+  top: 100px;
+  border: 1px solid black;
+  padding: 10px;
+  cursor: pointer;
+  color: white;
+}
+
+.hide {
+  display: none;
+}
